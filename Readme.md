@@ -4,7 +4,7 @@ Simple quiz mobile app for IOS and Android.
 
 ## Screenshots
 
-<img src="https://github.com/pablomagalhaes/namegame/home.png" width="200">
+<img src="https://github.com/pablomagalhaes/namegame/main/home.png" width="200">
 
 
 ## Getting Started
